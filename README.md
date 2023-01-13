@@ -1,3 +1,12 @@
+ //LINK TO DEPLYED APPLICATION https://my-react-mini-portfolio.vercel.app/ ///
+ //PLEASE USE THIS LINK TO VIEW THE APPLICATION//
+ // This application is a single page application that talks about me as a person and shows some pictures of what I do. Given the very little time, and the multiple power outages due to loadshedding, this is the best that I could come up. I hope that you will happy with the portfolio
+ 
+ 
+ 
+ 
+ 
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
